@@ -13,7 +13,7 @@ class TelegraphText
     {
         $this->author = $author;
         $this->slug = $slug;
-        $this->published = '18.02.24  15:00';
+        $this->published = '23.02.24  15:00';
     }
 
     public function storeText()
